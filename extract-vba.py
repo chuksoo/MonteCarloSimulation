@@ -39,4 +39,4 @@ if __name__ == '__main__':
 
         for f in files:
             if f.endswith(EXCEL_FILE_EXTENSIONS):
-                parse(os.path.join(root, f))
+                parse(os.path.join(root, f))g
